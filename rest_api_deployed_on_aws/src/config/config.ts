@@ -22,4 +22,3 @@ export const config = {
     "secret": "hello world"
   }
 }
-// https://github.com/willgoldby/cloud-developer
